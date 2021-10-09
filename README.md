@@ -1,2 +1,3 @@
-# brainly
-Brainly Application
+# Brainly
+
+The Brainly Application
